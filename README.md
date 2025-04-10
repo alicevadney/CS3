@@ -3,7 +3,7 @@
 This repository contains the study, deliverable, data, and reference materials necessary to complete the Case Study.
 
 ## Important Information
-The file labeled [CS3Hook_Restaurants.pdf](https://github.com/alicevadney/CS3/blob/e17107940ce2b9e2ea6c384659d2097989d788c1/CS3Hook_Restaurants.pdf) outlines the case study for this assignment. The rubric CS2Rubric_Restaurants.pdf outlines the expectations for formatting, submission requirements, and final deliverables for a successful project.
+The file labeled [[CS3Hook_Restaurants.pdf]](https://github.com/alicevadney/CS3/blob/e8e8cd23c9f32adc80b45046b602bc09a99a4abd/CS3Hook_Restaurants.pdf) outlines the case study for this assignment. The rubric CS2Rubric_Restaurants.pdf outlines the expectations for formatting, submission requirements, and final deliverables for a successful project.
 
 ## Data
 The cleaned dataset for your model is located in the "DATA" folder.
